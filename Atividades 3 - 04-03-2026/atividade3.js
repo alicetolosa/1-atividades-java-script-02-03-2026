@@ -1,4 +1,4 @@
-import leia from "readline-sync";
+
 
 let numero;
 let soma = 0;
