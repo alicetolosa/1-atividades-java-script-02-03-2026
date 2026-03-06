@@ -1,6 +1,28 @@
 {
   "type": "module",
   "dependencies": {
+    "@types/node": "^25.3.4",
     "readline-sync": "^1.4.10"
+  },
+  "name": "atividades-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alicetolosa/1-atividades-java-script-02-03-2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alicetolosa/1-atividades-java-script-02-03-2026/issues"
+  },
+  "homepage": "https://github.com/alicetolosa/1-atividades-java-script-02-03-2026#readme",
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8"
   }
 }
